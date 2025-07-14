@@ -1,8 +1,8 @@
 ### Oee eu sou o Matheus Morais👋
 
 
-- 🔭 Estrou trabalhando com front-end
-- 🌱 Estudando HTML/CSS
+- 🔭 Estou trabalhando com front-end
+- 🌱 Estudando HTML/CSS/JS
 - 📫  Contate-me no email: mathmoraiscontato@gmail.com
 - 😄 Pronouns: Ele/dele
 
