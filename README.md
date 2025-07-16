@@ -1,32 +1,57 @@
-### Oee eu sou o Matheus Morais👋
+# 👩🏻‍💻 Matheus Morais
+
+**`Dev FrontEnd`**
+
+Me chamo Matheus Morais, tenho 23 anos. Atualmente, estou cursando Engenharia de software. Sou apaixonado por tecnologia.
 
 
-- 🔭 Estou trabalhando com front-end
-- 🌱 Estudando HTML/CSS/JS
-- 📫  Contate-me no email: mathmoraiscontato@gmail.com
-- 😄 Pronouns: Ele/dele
+---
 
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">
-  <a href="https://github.com/matheusrmorais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusrmorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmorais&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<br/>
+<br/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-            
+### 📊 Estatísticas
 
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=matheusrmorais&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-##
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmorais&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-
-<div>
-  <a href="https://instagram.com/mathvlr1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mathmoraiscontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-![Snake animation](https://github.com/rafaballerini/matheusrmorais/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+</p>
