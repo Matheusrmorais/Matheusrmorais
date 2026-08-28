@@ -1,102 +1,119 @@
+Claro — aqui vai uma **segunda versão**, colocando **ADS na FIAP como formação principal**, mantendo a estética JARVIS/Cyberpunk, mas deixando o perfil mais profissional para recrutadores e oportunidades de desenvolvimento.
+
 <div align="center">
 
-# ⚡ MATHEUS MORAIS
+# `> MATHEUS MORAIS`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D;%3E+Initializing+MatheusMorais.exe...;%3E+Software+Developer+in+Progress;%3E+Data+%7C+Code+%7C+Automation+%7C+Innovation;%3E+Welcome+to+my+digital+workspace." alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+BOOT+%5D;%3E+Analista+de+Desenvolvimento+de+Sistemas;%3E+Software+Developer+in+Progress;%3E+Data+%7C+Development+%7C+Technology;%3E+Building+the+future+one+commit+at+a+time..." alt="Typing Animation">
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/STATUS-BUILDING-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white">
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-00FF9C?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/FIAP-ADS-00FF9C?style=for-the-badge&logo=bookstack&logoColor=black">
 
 </div>
 
 ---
 
-## 🧠 `01 // ABOUT_ME`
+# `01 // IDENTITY`
+
+```console
+┌──────────────────────────────────────────────────────────────┐
+│                    MATHEUS MORAIS.exe                        │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  > PROFILE                                                  │
+│    Software Developer in Progress                            │
+│                                                              │
+│  > EDUCATION                                                │
+│    FIAP — Análise e Desenvolvimento de Sistemas              │
+│                                                              │
+│  > BACKGROUND                                               │
+│    BI • Data Analysis • SQL • Power BI • Excel               │
+│                                                              │
+│  > CURRENT_DIRECTION                                        │
+│    Front-end • Back-end • Full Stack                         │
+│                                                              │
+│  > LOCATION                                                 │
+│    São Paulo, Brazil                                        │
+│                                                              │
+│  SYSTEM_STATUS :: ONLINE                                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `02 // ABOUT_ME`
+
+<div align="center">
+
+### 👨‍💻 Software Developer in Progress
+
+</div>
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com experiência profissional na área de **Business Intelligence e análise de dados**.
+
+Minha experiência com dados me proporcionou uma visão analítica para entender problemas, identificar padrões e transformar informações em soluções.
+
+Atualmente, estou direcionando minha carreira para **Desenvolvimento de Software**, aprofundando meus conhecimentos em **HTML, CSS, JavaScript, Tailwind CSS, SQL, APIs e Node.js**.
+
+Meu objetivo é unir a experiência adquirida com **dados e BI** ao desenvolvimento de aplicações modernas, criando soluções eficientes, intuitivas e escaláveis.
+
+---
+
+# `03 // EDUCATION_PROTOCOL`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    MATHEUS MORAIS.exe                       ║
+║                    EDUCATION DATABASE                       ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  Role       :: Software Developer in Progress                ║
-║  Background :: Data Analysis / BI                            ║
-║  Focus      :: Front-end • Back-end • Data                   ║
-║  Education  :: FIAP • Engenharia de Software                 ║
-║  Location   :: São Paulo, Brazil                             ║
+║  🎓 FIAP                                                     ║
+║     Análise e Desenvolvimento de Sistemas                    ║
+║     2º Semestre                                              ║
 ║                                                              ║
-║  > Transformando ideias em interfaces,                       ║
-║    dados em insights e problemas em soluções.                ║
+║  🎓 Engenharia de Software                                   ║
+║     Formação complementar em Engenharia de Software          ║
+║                                                              ║
+║                                                              ║
+║  AREA OF INTEREST                                           ║
+║  ├─ Front-end Development                                    ║
+║  ├─ Back-end Development                                     ║
+║  ├─ Full Stack Development                                   ║
+║  └─ Software Engineering                                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-Sou profissional com experiência em **BI, análise de dados, SQL, Power BI e Excel**, atualmente direcionando meus estudos para **desenvolvimento de software**.
-
-Meu foco está em construir aplicações modernas, responsivas e funcionais, unindo **tecnologia, dados, automação e experiência do usuário**.
-
-Atualmente estou aprofundando meus conhecimentos em **JavaScript, Front-end, Back-end, APIs, Node.js e Engenharia de Software**.
-
 ---
 
-## 🚀 `02 // CURRENT_MISSION`
-
-```console
-┌──[ MATHEUS@DEV ]─[ ~/mission ]
-│
-├─ $ whoami
-│  └─ Software Developer in Progress
-│
-├─ $ current_focus
-│  ├─ Front-end Development
-│  ├─ Back-end Development
-│  ├─ JavaScript
-│  ├─ SQL
-│  └─ Software Engineering
-│
-├─ $ learning
-│  ├─ Node.js
-│  ├─ REST APIs
-│  ├─ Architecture
-│  └─ Full Stack Development
-│
-└─ $ mission_status
-   └─ [████████████████░░░░] 80%
-```
-
-### 🎯 Objetivos
-
-* 🚀 Evoluir como Software Developer
-* 🌐 Criar aplicações web modernas
-* 🧠 Aprofundar JavaScript e Node.js
-* 🗄️ Evoluir em bancos de dados e APIs
-* 🎨 Criar interfaces modernas com Tailwind CSS
-* 🔧 Desenvolver projetos Full Stack
-* 💼 Conquistar oportunidades em Desenvolvimento de Software
-
----
-
-## 💻 `03 // TECH_STACK`
+# `04 // TECH_STACK`
 
 <div align="center">
 
-### LANGUAGES
+### `PROGRAMMING`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python">
 
 <br><br>
 
-### FRONT-END
+### `FRONT-END`
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js">
 
 <br><br>
 
-### BACK-END & DATABASE
+### `BACK-END`
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres">
+<img src="https://skillicons.dev/icons?i=nodejs,python">
+
+<br><br>
+
+### `DATABASE`
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres">
 
 <br><br>
 
@@ -109,7 +126,7 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, Front-end, Bac
 
 ---
 
-## 🛠️ `04 // TOOLKIT`
+# `05 // DEVELOPMENT_TOOLKIT`
 
 <div align="center">
 
@@ -117,36 +134,41 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, Front-end, Bac
 
 <br><br>
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 </div>
 
 ---
 
-## 🧬 `05 // PROJECT_DATABASE`
+# `06 // PROJECTS`
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 💠 AuroraBlue Finance
+## 💙 AuroraBlue Finance
 
-Sistema de gerenciamento financeiro com foco em organização, acompanhamento e visualização de informações financeiras.
+Sistema de gerenciamento financeiro desenvolvido para organizar e visualizar informações financeiras.
 
-**Features**
+```text
+FEATURES
 
-* 📊 Dashboard financeiro
-* 💰 Controle de saldo
-* 📈 Investimentos
-* 💸 Despesas mensais
-* 🧾 Receitas e despesas
-* 🗂️ Categorias financeiras
-* 📱 Interface responsiva
+✓ Dashboard
+✓ Controle de saldo
+✓ Receitas
+✓ Despesas
+✓ Investimentos
+✓ Categorias
+✓ Acompanhamento mensal
+✓ Responsive UI
+```
+
+**Stack**
 
 `HTML` `CSS` `Tailwind` `JavaScript`
 
@@ -154,25 +176,29 @@ Sistema de gerenciamento financeiro com foco em organização, acompanhamento e 
 
 <td width="50%" valign="top">
 
-### 📷 JOVI-CAM
+## 📷 JOVI-CAM
 
-Projeto desenvolvido para a FIAP com foco em uma interface moderna para gerenciamento e seleção de templates.
+Projeto desenvolvido na **FIAP**, com foco na criação de uma interface moderna e responsiva.
 
-**Features**
+```text
+FEATURES
 
-* 🎨 UI moderna
-* 📱 Design responsivo
-* 🧩 Template cards
-* 🧭 Navegação mobile
-* ⚡ Tailwind CSS
-* 🖱️ Componentes interativos
+✓ Template System
+✓ Modern Cards
+✓ Responsive UI
+✓ Mobile Navigation
+✓ Interactive Components
+✓ Tailwind CSS
+```
+
+**Stack**
 
 `HTML` `CSS` `Tailwind` `JavaScript`
 
 <br>
 
 <a href="https://github.com/Matheusrmorais/JOVI-CAM-FIAP">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </td>
@@ -183,37 +209,37 @@ Projeto desenvolvido para a FIAP com foco em uma interface moderna para gerencia
 
 <td width="50%" valign="top">
 
-### 🤖 Discord Clone
+## 🤖 Discord Clone
 
-Interface inspirada no Discord criada para praticar desenvolvimento web e construção de layouts modernos.
+Projeto desenvolvido para praticar construção de interfaces modernas e responsivas.
 
-**Focus**
+```text
+FOCUS
 
-* UI Architecture
-* Responsive Design
-* Components
-* CSS
-* JavaScript
-
-`HTML` `CSS` `JavaScript`
+→ UI Architecture
+→ Responsive Design
+→ Components
+→ CSS
+→ JavaScript
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ PokeAPI
+## ⚡ PokeAPI
 
-Aplicação desenvolvida para consumir uma API externa e apresentar informações de forma dinâmica.
+Aplicação criada para trabalhar com consumo de APIs e renderização dinâmica de informações.
 
-**Focus**
+```text
+FOCUS
 
-* REST API
-* JavaScript
-* Async/Await
-* Dynamic Rendering
-* API Consumption
-
-`HTML` `CSS` `JavaScript` `API`
+→ REST API
+→ Async/Await
+→ JavaScript
+→ Dynamic Rendering
+→ API Consumption
+```
 
 </td>
 
@@ -222,36 +248,70 @@ Aplicação desenvolvida para consumir uma API externa e apresentar informaçõe
 
 ---
 
-## 🧠 `06 // DEVELOPMENT_PHILOSOPHY`
+# `07 // CURRENT_MISSION`
 
-<div align="center">
-
-```text
-                 ┌─────────────────────┐
-                 │   DEVELOPMENT CORE  │
-                 └──────────┬──────────┘
-                            │
-              ┌─────────────┼─────────────┐
-              ▼             ▼             ▼
-         [ PROBLEM ]    [ ANALYSIS ]    [ CODE ]
-              │             │             │
-              └─────────────┼─────────────┘
-                            ▼
-                       [ SOLUTION ]
-                            │
-                            ▼
-                      [ IMPROVEMENT ]
+```console
+┌──[ MATHEUS@FIAP ]─[ ~/development ]
+│
+├─ $ education
+│  └─ ADS @ FIAP
+│
+├─ $ career_direction
+│  └─ Software Development
+│
+├─ $ learning
+│  ├─ JavaScript
+│  ├─ Node.js
+│  ├─ REST APIs
+│  ├─ Tailwind CSS
+│  ├─ SQL
+│  └─ Software Architecture
+│
+├─ $ building
+│  ├─ Web Applications
+│  ├─ Responsive Interfaces
+│  ├─ APIs
+│  └─ Full Stack Projects
+│
+└─ $ objective
+   └─ Become a Software Developer
 ```
-
-### `"Code is not only about making things work."`
-
-**It's about creating solutions that make sense.**
-
-</div>
 
 ---
 
-## 📊 `07 // GITHUB_ANALYTICS`
+# `08 // CAREER_EVOLUTION`
+
+```text
+                 DATA & BI
+                    │
+                    ▼
+            ┌───────────────┐
+            │  SQL / POWER  │
+            │      BI       │
+            │     EXCEL     │
+            └───────┬───────┘
+                    │
+                    ▼
+              DATA ANALYSIS
+                    │
+                    ▼
+              FIAP • ADS
+                    │
+                    ▼
+            SOFTWARE DEVELOPMENT
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+      FRONT-END            BACK-END
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+               FULL STACK
+```
+
+---
+
+# `09 // GITHUB_ANALYTICS`
 
 <div align="center">
 
@@ -271,7 +331,7 @@ Aplicação desenvolvida para consumir uma API externa e apresentar informaçõe
 
 ---
 
-## 📈 `08 // ACTIVITY_GRAPH`
+# `10 // ACTIVITY_MATRIX`
 
 <div align="center">
 
@@ -281,7 +341,7 @@ Aplicação desenvolvida para consumir uma API externa e apresentar informaçõe
 
 ---
 
-## 🏆 `09 // ACHIEVEMENTS`
+# `11 // TROPHIES`
 
 <div align="center">
 
@@ -291,28 +351,17 @@ Aplicação desenvolvida para consumir uma API externa e apresentar informaçõe
 
 ---
 
-## 🐍 `10 // CONTRIBUTION_PROTOCOL`
+# `12 // CONTRIBUTION_PROTOCOL`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Matheusrmorais/Matheusrmorais/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+<img src="https://raw.githubusercontent.com/Matheusrmorais/Matheusrmorais/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 
 </div>
 
-```text
-> CONTRIBUTION ENGINE
-> Scanning repository activity...
-> Mapping commits...
-> Analyzing contribution patterns...
->
-> ████████████████████████████████████████
->
-> STATUS: ACTIVE
-```
-
 ---
 
-## 🌐 `11 // SOCIAL_NETWORK`
+# `13 // SOCIAL_INTERFACE`
 
 <div align="center">
 
@@ -336,43 +385,28 @@ Aplicação desenvolvida para consumir uma API externa e apresentar informaçõe
 
 ---
 
-## 🖥️ `12 // SYSTEM_LOG`
-
-```console
-┌────────────────────────────────────────────────────────────┐
-│                    SYSTEM INFORMATION                      │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  USER       : Matheus Morais                               │
-│  MODE       : SOFTWARE DEVELOPMENT                         │
-│  STACK      : HTML / CSS / JS / SQL / TAILWIND             │
-│  DOMAIN     : WEB / DATA / AUTOMATION                      │
-│  STATUS     : LEARNING                                     │
-│  MISSION    : BUILD • LEARN • IMPROVE                      │
-│                                                            │
-│  [✓] Curiosity                                             │
-│  [✓] Problem Solving                                       │
-│  [✓] Continuous Learning                                   │
-│  [✓] Data Driven Thinking                                  │
-│  [✓] Software Development                                  │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
----
-
 <div align="center">
 
-## `> CONNECTION_ESTABLISHED`
+# `> SYSTEM_FINALIZED`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=%3E+Thanks+for+visiting+my+profile.;%3E+Feel+free+to+explore+my+repositories.;%3E+Let's+build+something+great.">
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        LEARN  •  BUILD  •  DEPLOY  •  IMPROVE               ║
+║                                                              ║
+║                 SYSTEM STATUS :: ONLINE                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<br>
-
-<img src="https://img.shields.io/badge/MADE%20WITH-☕%20%2B%20CODE-00F7FF?style=flat-square">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+Thanks+for+visiting+my+profile.;%3E+Currently+studying+ADS+at+FIAP.;%3E+Building+my+future+in+Software+Development.;%3E+See+you+in+the+next+commit.">
 
 <br><br>
 
-`© 2026 Matheus Morais // SYSTEM ONLINE`
+<img src="https://img.shields.io/badge/MADE_WITH-☕%20%2B%20CODE-00F7FF?style=flat-square">
+
+<br><br>
+
+`© 2026 Matheus Morais // FIAP ADS // SYSTEM ONLINE`
 
 </div>
