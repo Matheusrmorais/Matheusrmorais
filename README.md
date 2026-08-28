@@ -163,6 +163,8 @@ operador@nucleo:~$ status --check
 
 </div>
 
+> ⚠️ **Se os cards acima não carregarem:** confirme se `Matheusrmorais` é exatamente o seu usuário do GitHub (letras maiúsculas/minúsculas não importam, mas a grafia sim). O serviço público `github-readme-stats.vercel.app` também sofre quedas e limites de uso com frequência — se continuar quebrado depois de conferir o usuário, o mais confiável é [fazer o deploy da sua própria instância no Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (gratuito, leva ~2 minutos) e trocar o domínio nas URLs acima pelo seu.
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ============================== TROPHIES ============================== -->
@@ -171,6 +173,8 @@ operador@nucleo:~$ status --check
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Matheusrmorais&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
 </div>
+
+> ⚠️ Mesmo caso do problema acima: o `github-profile-trophy.vercel.app` é um serviço público gratuito e cai com frequência por excesso de uso. Se não carregar, aguarde alguns minutos e recarregue a página do GitHub — o serviço volta sozinho na maioria das vezes.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -183,8 +187,13 @@ operador@nucleo:~$ status --check
 
 </div>
 
-> ⚙️ Para ativar a animação da cobrinha no seu perfil, configure a **GitHub Action** oficial:
-> [`Platane/snk`](https://github.com/Platane/snk) — ela gera o SVG acima automaticamente a partir do seu gráfico de contribuições. Precisa estar no repositório `Matheusrmorais/Matheusrmorais`.
+> ⚙️ **Esta imagem SÓ funciona depois de você configurar a GitHub Action.** Ela não é um serviço externo como as anteriores — é um SVG gerado dentro do seu próprio repositório, então enquanto a Action não rodar pelo menos uma vez, o link fica quebrado (é o esperado). Siga os passos:
+>
+> 1. Crie um repositório **com o nome exatamente igual ao seu usuário**: `Matheusrmorais/Matheusrmorais` (esse é o repositório especial que vira a "capa" do seu perfil).
+> 2. Dentro dele, crie o caminho `.github/workflows/snake.yml` com o conteúdo do exemplo oficial: [github.com/Platane/snk#-installation](https://github.com/Platane/snk#-installation)
+> 3. Faça commit — a Action roda automaticamente (ou dispare manualmente em **Actions** → **Generate Snake** → **Run workflow**).
+> 4. Ela vai gerar o arquivo `dist/github-contribution-grid-snake-dark.svg` numa branch chamada `output`, que é exatamente o caminho usado na imagem acima.
+> 5. Cole este mesmo README.md como conteúdo desse repositório `Matheusrmorais/Matheusrmorais` — é ele que aparece no topo do seu perfil.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -193,19 +202,14 @@ operador@nucleo:~$ status --check
 
 <div align="center">
 
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/matheus-rodrigues-morais/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="#" target="_blank">
+<a href="https://www.instagram.com/mathvlr1/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
-
-> ⚠️ **Preciso dos seus links/usuários das redes sociais** (LinkedIn, Instagram, e-mail, e outras que queira incluir — X, Discord, Dev.to, portfólio...) para substituir os `#` acima.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
