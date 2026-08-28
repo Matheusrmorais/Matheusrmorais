@@ -30,7 +30,7 @@
 ```yaml
 sistema:
   nome: "Matheus Morais"
-  usuario_github: "@Matheusrmorais"
+  usuario_github: "@matheusrmorais"
   localizacao: "São Paulo, Brasil"
   status: "Sempre aprendendo algo novo"
 
@@ -106,22 +106,29 @@ diretivas:
 <tr>
 <td width="50%">
 
-<a href="https://github.com/Matheusrmorais/projeto-um">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheusrmorais&repo=projeto-um&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
+<a href="https://github.com/matheusrmorais/AuroraBlue-Finance">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmorais&repo=AuroraBlue-Finance&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
 </a>
 
 </td>
 <td width="50%">
 
-<a href="https://github.com/Matheusrmorais/projeto-dois">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheusrmorais&repo=projeto-dois&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
+<a href="https://github.com/matheusrmorais/Pokedex">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmorais&repo=Pokedex&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+<a href="https://github.com/matheusrmorais/Desafio-dio-me-clonando-pagina-discord">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmorais&repo=Desafio-dio-me-clonando-pagina-discord&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
 </a>
 
 </td>
 </tr>
 </table>
-
-> ⚠️ **Preciso dos nomes dos seus repositórios reais aqui.** Troquei `projeto-um` e `projeto-dois` por placeholders — me diga quais projetos quer destacar (2 a 4) que eu já ajusto os cards.
 
 </div>
 
@@ -150,20 +157,20 @@ operador@nucleo:~$ status --check
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheusrmorais&show_icons=true&theme=dark&bg_color=0d1117&title_color=00fff2&icon_color=9d4edd&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&locale=pt-br"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusrmorais&layout=compact&theme=dark&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&border_color=30363d&hide_border=false&locale=pt-br"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusrmorais&show_icons=true&theme=dark&bg_color=0d1117&title_color=00fff2&icon_color=9d4edd&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&locale=pt-br"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmorais&layout=compact&theme=dark&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&border_color=30363d&hide_border=false&locale=pt-br"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Matheusrmorais&theme=dark&background=0D1117&border=30363D&stroke=00fff2&ring=9d4edd&fire=ff2e97&currStreakLabel=00fff2&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&locale=pt-br" />
+<img src="https://streak-stats.demolab.com/?user=matheusrmorais&theme=dark&background=0D1117&border=30363D&stroke=00fff2&ring=9d4edd&fire=ff2e97&currStreakLabel=00fff2&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&locale=pt-br" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Matheusrmorais&theme=react-dark&bg_color=0d1117&color=00fff2&line=9d4edd&point=ff2e97&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusrmorais&theme=react-dark&bg_color=0d1117&color=00fff2&line=9d4edd&point=ff2e97&area=true&hide_border=true" />
 
 </div>
 
-> ⚠️ **Se os cards acima não carregarem:** confirme se `Matheusrmorais` é exatamente o seu usuário do GitHub (letras maiúsculas/minúsculas não importam, mas a grafia sim). O serviço público `github-readme-stats.vercel.app` também sofre quedas e limites de uso com frequência — se continuar quebrado depois de conferir o usuário, o mais confiável é [fazer o deploy da sua própria instância no Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (gratuito, leva ~2 minutos) e trocar o domínio nas URLs acima pelo seu.
+> ⚠️ **Se os cards acima não carregarem:** confirme se `matheusrmorais` é exatamente o seu usuário do GitHub (letras maiúsculas/minúsculas não importam, mas a grafia sim). O serviço público `github-readme-stats.vercel.app` também sofre quedas e limites de uso com frequência — se continuar quebrado depois de conferir o usuário, o mais confiável é [fazer o deploy da sua própria instância no Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (gratuito, leva ~2 minutos) e trocar o domínio nas URLs acima pelo seu.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -171,7 +178,7 @@ operador@nucleo:~$ status --check
 ## `[ 07 ]` 🏆 CONQUISTAS.trophy
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Matheusrmorais&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=matheusrmorais&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
 </div>
 
 > ⚠️ Mesmo caso do problema acima: o `github-profile-trophy.vercel.app` é um serviço público gratuito e cai com frequência por excesso de uso. Se não carregar, aguarde alguns minutos e recarregue a página do GitHub — o serviço volta sozinho na maioria das vezes.
@@ -183,17 +190,17 @@ operador@nucleo:~$ status --check
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Matheusrmorais/Matheusrmorais/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/matheusrmorais/matheusrmorais/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 > ⚙️ **Esta imagem SÓ funciona depois de você configurar a GitHub Action.** Ela não é um serviço externo como as anteriores — é um SVG gerado dentro do seu próprio repositório, então enquanto a Action não rodar pelo menos uma vez, o link fica quebrado (é o esperado). Siga os passos:
 >
-> 1. Crie um repositório **com o nome exatamente igual ao seu usuário**: `Matheusrmorais/Matheusrmorais` (esse é o repositório especial que vira a "capa" do seu perfil).
+> 1. Crie um repositório **com o nome exatamente igual ao seu usuário**: `matheusrmorais/matheusrmorais` (esse é o repositório especial que vira a "capa" do seu perfil).
 > 2. Dentro dele, crie o caminho `.github/workflows/snake.yml` com o conteúdo do exemplo oficial: [github.com/Platane/snk#-installation](https://github.com/Platane/snk#-installation)
 > 3. Faça commit — a Action roda automaticamente (ou dispare manualmente em **Actions** → **Generate Snake** → **Run workflow**).
 > 4. Ela vai gerar o arquivo `dist/github-contribution-grid-snake-dark.svg` numa branch chamada `output`, que é exatamente o caminho usado na imagem acima.
-> 5. Cole este mesmo README.md como conteúdo desse repositório `Matheusrmorais/Matheusrmorais` — é ele que aparece no topo do seu perfil.
+> 5. Cole este mesmo README.md como conteúdo desse repositório `matheusrmorais/matheusrmorais` — é ele que aparece no topo do seu perfil.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -220,7 +227,7 @@ operador@nucleo:~$ status --check
 
 <br/>
 
-![Visitas ao Perfil](https://komarev.com/ghpvc/?username=Matheusrmorais&label=ESCANEAMENTOS+DO+PERFIL&color=00fff2&style=for-the-badge&labelColor=0d1117)
+![Visitas ao Perfil](https://komarev.com/ghpvc/?username=matheusrmorais&label=ESCANEAMENTOS+DO+PERFIL&color=00fff2&style=for-the-badge&labelColor=0d1117)
 
 <br/><br/>
 
