@@ -1,272 +1,255 @@
-# `01 // SOBRE MIM`
-
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    MATHEUS MORAIS.exe                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  FUNÇÃO       :: Desenvolvedor de Software em formação      ║
-║  FORMAÇÃO     :: ADS — FIAP                                 ║
-║  EXPERIÊNCIA  :: BI • MIS • Análise de Dados                 ║
-║  FOCO         :: Front-end • Back-end • Full Stack           ║
-║  LOCALIZAÇÃO  :: São Paulo, Brasil                           ║
-║                                                              ║
-║  > Transformando dados em informação,                        ║
-║    problemas em soluções e ideias em software.               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<!-- BANNER PRINCIPAL - EFEITO DE INICIALIZAÇÃO DE SISTEMA -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20INITIALIZING...&fontSize=42&fontColor=00fff2&fontAlignY=38&desc=Welcome%20to%20my%20Neural%20Core&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Booting+profile.exe...;%3E+Loading+identity+module...;%3E+Access+granted%2C+welcome+operator;%3E+Full-Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00fff2" />
+<img src="https://img.shields.io/badge/CORE-STABLE-9d4edd?style=for-the-badge&labelColor=0d1117&logo=chip&logoColor=9d4edd" />
+<img src="https://img.shields.io/badge/PROTOCOL-JARVIS--MODE-ff2e97?style=for-the-badge&labelColor=0d1117&logo=matrix&logoColor=ff2e97" />
+
 </div>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, direcionando minha carreira para Desenvolvimento de Software.
+<br/>
 
-Tenho experiência profissional com Business Intelligence, análise de dados, SQL, Power BI e Excel, desenvolvendo análises, dashboards, relatórios e soluções para apoiar processos e tomada de decisões.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-Minha experiência com dados trouxe uma forte base em pensamento analítico, resolução de problemas e automação, que atualmente estou aplicando no desenvolvimento de software.
+<!-- ============================== SOBRE MIM ============================== -->
+## `[ 01 ]` <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> SOBRE_MIM.exe
 
-Meu foco atual está em Front-end, Back-end e desenvolvimento Full Stack, buscando transformar ideias e problemas reais em soluções digitais.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-02 // FORMAÇÃO
+```yaml
+sistema:
+  nome: "Seu Nome Aqui"
+  alias: "@seu-usuario"
+  classe: "Desenvolvedor(a) Full-Stack"
+  localizacao: "Brasil, Terra"
+  status: "Compilando ideias em produção"
+
+modulos_ativos:
+  - Backend Engineering
+  - Frontend Architecture
+  - Inteligência Artificial
+  - Cloud & DevOps
+
+diretiva_atual:
+  foco: "Construir sistemas escaláveis e elegantes"
+  aprendendo: ["IA Generativa", "Arquitetura de Microsserviços"]
+
+curiosidade:
+  - "Acredito que código limpo é uma forma de arte 🖤"
+```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/hologram-effect.gif" width="100%" alt="hologram">
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============================== TECH STACK ============================== -->
+## `[ 02 ]` ⚙️ TECH_STACK.sys
+
 <div align="center">
-🎓 FIAP
-Análise e Desenvolvimento de Sistemas
 
-2º semestre
+### ➤ Linguagens
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,php,html,css&theme=dark" />
 
-<br> <img src="https://img.shields.io/badge/STATUS-EM%20ANDAMENTO-00F7FF?style=for-the-badge"> <img src="https://img.shields.io/badge/ÁREA-DESENVOLVIMENTO%20DE%20SOFTWARE-8A2BE2?style=for-the-badge"> </div> <br>
-┌──────────────────────────────────────────────────────────────┐
-│                    PROTOCOLO DE FORMAÇÃO                    │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🎓 INSTITUIÇÃO                                             │
-│     FIAP                                                     │
-│                                                              │
-│  📚 CURSO                                                    │
-│     Análise e Desenvolvimento de Sistemas                    │
-│                                                              │
-│  📡 STATUS                                                   │
-│     Em andamento                                             │
-│                                                              │
-│  🎯 OBJETIVO                                                 │
-│     Desenvolvimento de Software                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-03 // EXPERIÊNCIA
-╔══════════════════════════════════════════════════════════════╗
-║                  EXPERIÊNCIA PROFISSIONAL                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  📊 BUSINESS INTELLIGENCE                                    ║
-║                                                              ║
-║  ├─ Análise de dados                                        ║
-║  ├─ SQL                                                      ║
-║  ├─ Power BI                                                 ║
-║  ├─ Excel                                                    ║
-║  ├─ Dashboards                                               ║
-║  ├─ Relatórios gerenciais                                   ║
-║  └─ Automação de processos                                  ║
-║                                                              ║
-║  > Experiência com análise, consolidação e interpretação     ║
-║    de grandes volumes de dados.                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-🧠 Competências adquiridas
-Competência	Aplicação
-📊 Análise de dados	Transformação de dados em informações
-🗄️ SQL	Consultas e manipulação de dados
-📈 Power BI	Dashboards e indicadores
-📑 Excel	Análises e automações
-⚙️ Automação	Otimização de processos
-🔎 Pensamento analítico	Identificação e resolução de problemas
-04 // TECNOLOGIAS
-<div align="center">
-💻 LINGUAGENS
-<img src="https://skillicons.dev/icons?i=html,css,js,python">
+### ➤ Frontend
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,redux,vite&theme=dark" />
 
-<br><br>
+### ➤ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi&theme=dark" />
 
-🎨 FRONT-END
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js">
+### ➤ Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase&theme=dark" />
 
-<br><br>
+### ➤ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx&theme=dark" />
 
-⚙️ BACK-END
-<img src="https://skillicons.dev/icons?i=nodejs,python">
+### ➤ Inteligência Artificial
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00fff2" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00fff2" />
 
-<br><br>
-
-🗄️ DADOS
-<img src="https://skillicons.dev/icons?i=mysql,postgres">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> </div>
-05 // FERRAMENTAS
-<div align="center"> <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman,discord">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> </div>
-06 // PROJETOS
-<table> <tr> <td width="50%" valign="top">
-💬 Discord Clone
-
-Interface inspirada no Discord, desenvolvida para praticar construção de interfaces modernas e responsivas.
-
-Tecnologias
-
-HTML CSS JavaScript
-
-Foco
-🎨 Interface moderna
-📱 Responsividade
-🧩 Componentes
-⚡ JavaScript
-🖥️ Front-end
-</td> <td width="50%" valign="top">
-💙 AuroraBlue Finance
-
-Aplicação voltada para gerenciamento financeiro e organização de informações relacionadas a receitas, despesas e investimentos.
-
-Funcionalidades
-📊 Dashboard financeiro
-💰 Controle de saldo
-📈 Investimentos
-💸 Despesas
-🧾 Receitas
-🗂️ Categorias
-📅 Acompanhamento mensal
-Tecnologias
-
-HTML CSS Tailwind CSS JavaScript
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🐾 Pokedex
-
-Projeto desenvolvido para praticar consumo de APIs e manipulação dinâmica de dados utilizando a PokeAPI.
-
-Foco
-🔌 Consumo de API
-⚡ JavaScript
-🔄 Async/Await
-🧩 Renderização dinâmica
-🔎 Manipulação de dados
-Tecnologias
-
-HTML CSS JavaScript API
-
-</td> <td width="50%" valign="top">
-🚀 Próximos projetos
-STATUS :: EM DESENVOLVIMENTO
-
-┌────────────────────────────┐
-│ PRÓXIMOS OBJETIVOS         │
-├────────────────────────────┤
-│                            │
-│ ▸ Front-end                │
-│ ▸ Back-end                 │
-│ ▸ APIs                     │
-│ ▸ Full Stack               │
-│ ▸ Automação                │
-│                            │
-└────────────────────────────┘
-
-Novos projetos serão adicionados conforme minha evolução na FIAP.
-
-</td> </tr> </table>
-07 // MISSÃO ATUAL
-┌──[ MATHEUS@FIAP ]─[ ~/desenvolvimento ]
-│
-├─ $ formação
-│  └─ ADS @ FIAP
-│
-├─ $ experiência
-│  ├─ Business Intelligence
-│  ├─ Análise de Dados
-│  ├─ SQL
-│  ├─ Power BI
-│  └─ Excel
-│
-├─ $ estudando
-│  ├─ JavaScript
-│  ├─ Node.js
-│  ├─ APIs REST
-│  ├─ Tailwind CSS
-│  ├─ SQL
-│  └─ Engenharia de Software
-│
-├─ $ desenvolvendo
-│  ├─ Aplicações Web
-│  ├─ Interfaces Responsivas
-│  ├─ APIs
-│  └─ Projetos Full Stack
-│
-└─ $ objetivo
-   └─ Tornar-me Desenvolvedor de Software
-08 // EVOLUÇÃO
-<div align="center">
-                         📊 DADOS
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │   BI / MIS    │
-                    │     SQL       │
-                    │   POWER BI    │
-                    │     EXCEL     │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ANÁLISE DE DADOS
-                            │
-                            ▼
-                       🎓 FIAP
-                         ADS
-                            │
-                            ▼
-               DESENVOLVIMENTO DE SOFTWARE
-                            │
-                 ┌──────────┴──────────┐
-                 ▼                     ▼
-             FRONT-END             BACK-END
-                 │                     │
-                 └──────────┬──────────┘
-                            ▼
-                         FULL STACK
 </div>
-09 // ESTATÍSTICAS
-<div align="center"> <img src="./assets/estatisticas.svg" width="95%" alt="Estatísticas do GitHub">
 
-<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<img src="./assets/linguagens.svg" width="95%" alt="Linguagens mais utilizadas"> </div>
-10 // SEQUÊNCIA DE CONTRIBUIÇÕES
-<div align="center"> <img src="./assets/sequencia.svg" width="95%" alt="Sequência de contribuições"> </div>
-11 // ATIVIDADE
-<div align="center"> <img src="./assets/atividade.svg" width="95%" alt="Atividade do GitHub"> </div>
-12 // TROFÉUS
-<div align="center"> <img src="./assets/trofeus.svg" width="95%" alt="Troféus do GitHub"> </div>
-13 // CONTRIBUIÇÕES
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg"> <img alt="Animação das contribuições do GitHub" src="./assets/github-snake-dark.svg"> </picture> </div>
-14 // REDES SOCIAIS
-<div align="center"> <a href="https://github.com/Matheusrmorais"> <img src="https://img.shields.io/badge/GitHub-Matheusrmorais-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://instagram.com/mathvlr1"> <img src="https://img.shields.io/badge/Instagram-@mathvlr1-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://twitter.com/mathvlr"> <img src="https://img.shields.io/badge/X-@mathvlr-000000?style=for-the-badge&logo=x&logoColor=white"> </a> <a href="https://tiktok.com/@mathvlr1"> <img src="https://img.shields.io/badge/TikTok-@mathvlr1-000000?style=for-the-badge&logo=tiktok&logoColor=white"> </a> </div>
+<!-- ============================== FERRAMENTAS ============================== -->
+## `[ 03 ]` 🛠️ FERRAMENTAS.dll
+
 <div align="center">
-> SISTEMA FINALIZADO
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║           APRENDER • CONSTRUIR • TESTAR • EVOLUIR            ║
-║                                                              ║
-║                  SISTEMA :: ONLINE                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Obrigado+por+visitar+meu+perfil.;%3E+Estudante+de+ADS+na+FIAP.;%3E+Construindo+minha+carreira+em+Desenvolvimento.;%3E+Nos+vemos+no+pr%C3%B3ximo+commit.">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,vim,notion&theme=dark" />
+</div>
 
-<br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<img src="https://img.shields.io/badge/FEITO_COM-☕%20%2B%20CÓDIGO-00F7FF?style=flat-square">
+<!-- ============================== PROJETOS ============================== -->
+## `[ 04 ]` 🚀 PROJETOS.zip
 
-<br><br>
+<div align="center">
 
-© 2026 Matheus Morais // FIAP ADS // SISTEMA ONLINE
+<table>
+<tr>
+<td width="50%">
 
-</div> ```
+<a href="https://github.com/seu-usuario/projeto-um">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-um&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/seu-usuario/projeto-dois">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-dois&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/seu-usuario/projeto-tres">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-tres&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
+</a>
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/seu-usuario/projeto-quatro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-quatro&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
+</a>
+
+</td>
+</tr>
+</table>
+
+> 💡 Substitua `seu-usuario` e os nomes dos repositórios pelos seus projetos reais para os cards carregarem automaticamente.
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============================== OBJETIVOS - TERMINAL ============================== -->
+## `[ 05 ]` 🎯 OBJETIVOS_ATUAIS.sh
+
+```bash
+operator@core:~$ cat objetivos_2026.txt
+
+[✔] Dominar arquitetura de sistemas distribuídos
+[✔] Contribuir com projetos open-source relevantes
+[ ] Aprofundar em Inteligência Artificial e LLMs
+[ ] Publicar artigos técnicos sobre boas práticas
+[ ] Lançar um SaaS próprio
+[ ] Alcançar 1000 estrelas em repositórios pessoais
+
+operator@core:~$ echo "carregando próxima missão..."
+> [██████████████████████████░░░░░░] 82%
+
+operator@core:~$ status --check
+>> SISTEMA OPERACIONAL. PRONTO PARA NOVOS DESAFIOS. 🟢
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============================== GITHUB STATS ============================== -->
+## `[ 06 ]` 📊 ANALYTICS.core
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&bg_color=0d1117&title_color=00fff2&icon_color=9d4edd&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&border_color=30363d&hide_border=false"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=seu-usuario&theme=dark&background=0D1117&border=30363D&stroke=00fff2&ring=9d4edd&fire=ff2e97&currStreakLabel=00fff2&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=react-dark&bg_color=0d1117&color=00fff2&line=9d4edd&point=ff2e97&area=true&hide_border=true" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============================== TROPHIES ============================== -->
+## `[ 07 ]` 🏆 CONQUISTAS.trophy
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============================== SNAKE ANIMATION ============================== -->
+## `[ 08 ]` 🐍 CONTRIBUTION_MATRIX.snk
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+> ⚙️ Para ativar a animação da cobrinha no seu perfil, configure o **GitHub Action** oficial:
+> [`Platane/snk`](https://github.com/Platane/snk) — ele gera o SVG acima automaticamente a partir do seu gráfico de contribuições.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============================== REDES SOCIAIS ============================== -->
+## `[ 09 ]` 📡 CANAIS_DE_COMUNICAÇÃO.net
+
+<div align="center">
+
+<a href="https://linkedin.com/in/seu-usuario" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/seu-usuario" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:seuemail@email.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/seu-usuario" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://twitter.com/seu-usuario" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://dev.to/seu-usuario" target="_blank">
+<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<!-- ============================== RODAPÉ ============================== -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=%3E+Conex%C3%A3o+encerrada...;%3E+Obrigado+pela+visita%2C+operador.;%3E+at%C3%A9+a+pr%C3%B3xima+transmiss%C3%A3o." />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&label=SCANS+DO+PERFIL&color=00fff2&style=for-the-badge&labelColor=0d1117)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+<sub>🖤 Desenvolvido com precisão de máquina e alma de programador — <b>Sistema pronto para o próximo deploy.</b></sub>
+
+</div>
