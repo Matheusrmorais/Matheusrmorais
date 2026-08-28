@@ -18,11 +18,11 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    MATHEUS MORAIS.exe                       ║
+║                    MATHEUS MORAIS.exe                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  FUNÇÃO       :: Desenvolvedor de Software em formação      ║
-║  FORMAÇÃO     :: ADS — FIAP                                 ║
+║  FUNÇÃO       :: Desenvolvedor de Software em formação       ║
+║  FORMAÇÃO     :: ADS — FIAP                                  ║
 ║  EXPERIÊNCIA  :: BI • MIS • Análise de Dados                 ║
 ║  FOCO         :: Front-end • Back-end • Full Stack           ║
 ║  LOCALIZAÇÃO  :: São Paulo, Brasil                           ║
