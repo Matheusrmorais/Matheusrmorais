@@ -1,255 +1,241 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL - EFEITO DE INICIALIZAÇÃO DE SISTEMA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20INITIALIZING...&fontSize=42&fontColor=00fff2&fontAlignY=38&desc=Welcome%20to%20my%20Neural%20Core&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=MATHEUS%20MORAIS&fontSize=42&fontColor=00FFF2&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20DATA%20%7C%20TECHNOLOGY&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-<!-- TYPING ANIMATION -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Booting+profile.exe...;%3E+Loading+identity+module...;%3E+Access+granted%2C+welcome+operator;%3E+Full-Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
-</a>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FFF2&center=true&vCenter=true&width=800&lines=%3E+Initializing+Matheus.exe...;%3E+Loading+developer+profile...;%3E+Access+granted.;%3E+Welcome+to+my+GitHub+profile." alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00fff2" />
-<img src="https://img.shields.io/badge/CORE-STABLE-9d4edd?style=for-the-badge&labelColor=0d1117&logo=chip&logoColor=9d4edd" />
-<img src="https://img.shields.io/badge/PROTOCOL-JARVIS--MODE-ff2e97?style=for-the-badge&labelColor=0d1117&logo=matrix&logoColor=ff2e97" />
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FFF2?style=for-the-badge&labelColor=0D1117">
+
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-9D4EDD?style=for-the-badge&labelColor=0D1117">
+
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-FF2E97?style=for-the-badge&labelColor=0D1117">
 
 </div>
 
-<br/>
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ============================== SOBRE MIM ============================== -->
-## `[ 01 ]` <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> SOBRE_MIM.exe
+[ 01 ] 👨‍💻 SOBRE_MIM.exe
+nome: "Matheus Morais"
+github: "@Matheusrmorais"
+localizacao: "São Paulo, Brasil"
 
-<table>
-<tr>
-<td width="60%" valign="top">
+formacao:
+  - "Análise e Desenvolvimento de Sistemas - FIAP"
+  - "Engenharia de Software"
 
-```yaml
-sistema:
-  nome: "Seu Nome Aqui"
-  alias: "@seu-usuario"
-  classe: "Desenvolvedor(a) Full-Stack"
-  localizacao: "Brasil, Terra"
-  status: "Compilando ideias em produção"
+area_de_interesse:
+  - Desenvolvimento Front-end
+  - Desenvolvimento Back-end
+  - Desenvolvimento de Software
 
-modulos_ativos:
-  - Backend Engineering
-  - Frontend Architecture
-  - Inteligência Artificial
-  - Cloud & DevOps
+tecnologias:
+  - HTML
+  - CSS
+  - JavaScript
+  - Tailwind CSS
+  - SQL
+  - Python
+  - Java
 
-diretiva_atual:
-  foco: "Construir sistemas escaláveis e elegantes"
-  aprendendo: ["IA Generativa", "Arquitetura de Microsserviços"]
+experiencia:
+  - Análise de Dados
+  - SQL
+  - Power BI
+  - Excel
+  - Automação de processos
 
-curiosidade:
-  - "Acredito que código limpo é uma forma de arte 🖤"
-```
+objetivo:
+  - "Evoluir como desenvolvedor"
+  - "Construir aplicações reais"
+  - "Transformar problemas em soluções através da tecnologia"
 
-</td>
-<td width="40%" align="center">
+status:
+  atual: "Sempre aprendendo algo novo."
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/hologram-effect.gif" width="100%" alt="hologram">
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ============================== TECH STACK ============================== -->
-## `[ 02 ]` ⚙️ TECH_STACK.sys
+<br>
 
 <div align="center">
 
-### ➤ Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,php,html,css&theme=dark" />
-
-### ➤ Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,redux,vite&theme=dark" />
-
-### ➤ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi&theme=dark" />
-
-### ➤ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase&theme=dark" />
-
-### ➤ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx&theme=dark" />
-
-### ➤ Inteligência Artificial
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00fff2" />
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00fff2" />
+💻 Transformando ideias em código e dados em soluções.
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ============================== FERRAMENTAS ============================== -->
-## `[ 03 ]` 🛠️ FERRAMENTAS.dll
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,vim,notion&theme=dark" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ============================== PROJETOS ============================== -->
-## `[ 04 ]` 🚀 PROJETOS.zip
+[ 02 ] ⚙️ TECH_STACK.sys
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+Linguagens
 
-<a href="https://github.com/seu-usuario/projeto-um">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-um&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark">
 
-</td>
-<td width="50%">
+<br><br>
 
-<a href="https://github.com/seu-usuario/projeto-dois">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-dois&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
-</a>
+Front-end
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite&theme=dark">
 
-<a href="https://github.com/seu-usuario/projeto-tres">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-tres&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
-</a>
+<br><br>
 
-</td>
-<td width="50%">
+Dados & Banco de Dados
 
-<a href="https://github.com/seu-usuario/projeto-quatro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=projeto-quatro&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
-</a>
+<img src="https://skillicons.dev/icons?i=mysql,python&theme=dark">
 
-</td>
-</tr>
-</table>
+<br><br>
 
-> 💡 Substitua `seu-usuario` e os nomes dos repositórios pelos seus projetos reais para os cards carregarem automaticamente.
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FFF2">
+
+<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811">
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=21A366">
+
+<br><br>
+
+Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark">
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ============================== OBJETIVOS - TERMINAL ============================== -->
-## `[ 05 ]` 🎯 OBJETIVOS_ATUAIS.sh
-
-```bash
-operator@core:~$ cat objetivos_2026.txt
-
-[✔] Dominar arquitetura de sistemas distribuídos
-[✔] Contribuir com projetos open-source relevantes
-[ ] Aprofundar em Inteligência Artificial e LLMs
-[ ] Publicar artigos técnicos sobre boas práticas
-[ ] Lançar um SaaS próprio
-[ ] Alcançar 1000 estrelas em repositórios pessoais
-
-operator@core:~$ echo "carregando próxima missão..."
-> [██████████████████████████░░░░░░] 82%
-
-operator@core:~$ status --check
->> SISTEMA OPERACIONAL. PRONTO PARA NOVOS DESAFIOS. 🟢
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<!-- ============================== GITHUB STATS ============================== -->
-## `[ 06 ]` 📊 ANALYTICS.core
+[ 03 ] 🚀 PROJETOS.exe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&bg_color=0d1117&title_color=00fff2&icon_color=9d4edd&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&border_color=30363d&hide_border=false"/>
+💰 AuroraBlue Finance
 
-<br/>
+<a href="https://github.com/Matheusrmorais/AuroraBlue-Finance">
 
-<img src="https://streak-stats.demolab.com/?user=seu-usuario&theme=dark&background=0D1117&border=30363D&stroke=00fff2&ring=9d4edd&fire=ff2e97&currStreakLabel=00fff2&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheusrmorais&repo=AuroraBlue-Finance&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFF2&text_color=C9D1D9&icon_color=9D4EDD" />
 
-<br/><br/>
+</a>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=react-dark&bg_color=0d1117&color=00fff2&line=9d4edd&point=ff2e97&area=true&hide_border=true" />
+<p> Sistema de gestão financeira desenvolvido para acompanhamento de receitas, despesas, investimentos e indicadores financeiros. </p>
+
+<br>
+
+🎮 Pokédex
+
+<a href="https://github.com/Matheusrmorais/Pokedex">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheusrmorais&repo=Pokedex&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFF2&text_color=C9D1D9&icon_color=9D4EDD" />
+
+</a>
+
+<p> Projeto web desenvolvido para consumir e apresentar informações de Pokémon de forma interativa. </p>
+
+<br>
+
+💬 Discord Clone
+
+<a href="https://github.com/Matheusrmorais/Desafio-dio-me-clonando-pagina-discord">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheusrmorais&repo=Desafio-dio-me-clonando-pagina-discord&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFF2&text_color=C9D1D9&icon_color=9D4EDD" />
+
+</a>
+
+<p> Projeto desenvolvido durante desafio da DIO, recriando a interface do Discord utilizando HTML e CSS. </p>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ============================== TROPHIES ============================== -->
-## `[ 07 ]` 🏆 CONQUISTAS.trophy
+[ 04 ] 🎯 OBJETIVOS_2026.sh
+matheus@github:~$ cat objectives.txt
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
-</div>
+[✔] Criar projetos utilizando HTML e CSS
+[✔] Desenvolver aplicações com JavaScript
+[✔] Utilizar Tailwind CSS
+[✔] Trabalhar com SQL
+[✔] Criar projetos pessoais e acadêmicos
+[✔] Desenvolver interfaces responsivas
+
+[ ] Aprofundar JavaScript
+[ ] Evoluir no Back-end
+[ ] Aprofundar conhecimentos em Java
+[ ] Aprender novas arquiteturas de software
+[ ] Desenvolver aplicações mais completas
+[ ] Expandir meu portfólio no GitHub
+
+matheus@github:~$ system status
+
+> ONLINE
+> LEARNING
+> BUILDING
+> DEPLOYING...
+
+████████████████████░░░░ 80%
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ============================== SNAKE ANIMATION ============================== -->
-## `[ 08 ]` 🐍 CONTRIBUTION_MATRIX.snk
+[ 05 ] 📊 GITHUB_ANALYTICS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheusrmorais&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FFF2&icon_color=9D4EDD&text_color=C9D1D9&border_color=30363D" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusrmorais&layout=compact&theme=dark&bg_color=0D1117&title_color=00FFF2&text_color=C9D1D9&border_color=30363D" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Matheusrmorais&theme=dark&background=0D1117&border=30363D&stroke=00FFF2&ring=9D4EDD&fire=FF2E97&currStreakLabel=00FFF2&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
-> ⚙️ Para ativar a animação da cobrinha no seu perfil, configure o **GitHub Action** oficial:
-> [`Platane/snk`](https://github.com/Platane/snk) — ele gera o SVG acima automaticamente a partir do seu gráfico de contribuições.
+<br>
+
+⚠️ Nota: os cards de estatísticas são gerados por um serviço externo e podem eventualmente apresentar indisponibilidade ou limite de requisições.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ============================== REDES SOCIAIS ============================== -->
-## `[ 09 ]` 📡 CANAIS_DE_COMUNICAÇÃO.net
+[ 06 ] 📡 CONECTE_SE
 
 <div align="center">
 
-<a href="https://linkedin.com/in/seu-usuario" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/Matheusrmorais">
+
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFF2">
+
 </a>
-<a href="https://instagram.com/seu-usuario" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+<a href="https://instagram.com/mathvlr1">
+
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF2E97">
+
 </a>
-<a href="mailto:seuemail@email.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://discord.com/users/seu-usuario" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://twitter.com/seu-usuario" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://dev.to/seu-usuario" target="_blank">
-<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+
+<a href="https://twitter.com/mathvlr">
+
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF">
+
 </a>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ============================== RODAPÉ ============================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=%3E+Conex%C3%A3o+encerrada...;%3E+Obrigado+pela+visita%2C+operador.;%3E+at%C3%A9+a+pr%C3%B3xima+transmiss%C3%A3o." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=%3E+Connection+terminated...;%3E+Thanks+for+visiting+my+profile.;%3E+See+you+in+the+next+deployment." alt="Footer" />
 
-<br/>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&label=SCANS+DO+PERFIL&color=00fff2&style=for-the-badge&labelColor=0d1117)
+<img src="https://komarev.com/ghpvc/?username=Matheusrmorais&label=PROFILE%20VIEWS&color=00FFF2&style=for-the-badge&labelColor=0D1117" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
-<sub>🖤 Desenvolvido com precisão de máquina e alma de programador — <b>Sistema pronto para o próximo deploy.</b></sub>
+<br>
+
+<sub> 🖤 Built with code, curiosity and continuous learning. </sub>
 
 </div>
