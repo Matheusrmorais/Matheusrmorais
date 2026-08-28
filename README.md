@@ -210,9 +210,7 @@ operador@nucleo:~$ status --check
 
 </div>
 
-> ⚠️ **Se os cards acima não carregarem:** confirme se `matheusrmorais` é exatamente o seu usuário do GitHub (letras maiúsculas/minúsculas não importam, mas a grafia sim). O serviço público `github-readme-stats.vercel.app` também sofre quedas e limites de uso com frequência — se continuar quebrado depois de conferir o usuário, o mais confiável é [fazer o deploy da sua própria instância no Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (gratuito, leva ~2 minutos) e trocar o domínio nas URLs acima pelo seu.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ============================== TROPHIES ============================== -->
 ## `[ 07 ]` 🏆 CONQUISTAS.trophy
