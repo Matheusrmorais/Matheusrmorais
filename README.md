@@ -119,7 +119,7 @@ Aplicação de controle e organização financeira, construída com foco em inte
 
 <br/><br/>
 
-<a href="https://github.com/matheusrmorais/AuroraBlue-Finance">
+<a href="https://github.com/Matheusrmorais/AuroraBlue-Finance">
 <img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00fff2?style=for-the-badge&labelColor=0d1117" />
 </a>
 
@@ -140,7 +140,7 @@ Pokédex web interativa que consome dados de Pokémon e exibe informações como
 
 <br/><br/>
 
-<a href="https://github.com/matheusrmorais/Pokedex">
+<a href="https://github.com/Matheusrmorais/Pokedex">
 <img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00fff2?style=for-the-badge&labelColor=0d1117" />
 </a>
 
@@ -161,7 +161,7 @@ Desafio da DIO recriando a página inicial do Discord, com foco em fidelidade vi
 
 <br/><br/>
 
-<a href="https://github.com/matheusrmorais/Desafio-dio-me-clonando-pagina-discord">
+<a href="https://github.com/Matheusrmorais/Desafio-dio-me-clonando-pagina-discord">
 <img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00fff2?style=for-the-badge&labelColor=0d1117" />
 </a>
 
@@ -218,7 +218,7 @@ operador@nucleo:~$ status --check
 ## `[ 07 ]` 🏆 CONQUISTAS.trophy
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=matheusrmorais&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Matheusrmorais&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
 </div>
 
 > ⚠️ Mesmo caso do problema acima: o `github-profile-trophy.vercel.app` é um serviço público gratuito e cai com frequência por excesso de uso. Se não carregar, aguarde alguns minutos e recarregue a página do GitHub — o serviço volta sozinho na maioria das vezes.
@@ -230,7 +230,7 @@ operador@nucleo:~$ status --check
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/matheusrmorais/matheusrmorais/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Matheusrmorais/Matheusrmorais/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -267,7 +267,7 @@ operador@nucleo:~$ status --check
 
 <br/>
 
-![Visitas ao Perfil](https://komarev.com/ghpvc/?username=matheusrmorais&label=ESCANEAMENTOS+DO+PERFIL&color=00fff2&style=for-the-badge&labelColor=0d1117)
+![Visitas ao Perfil](https://komarev.com/ghpvc/?username=Matheusrmorais&label=ESCANEAMENTOS+DO+PERFIL&color=00fff2&style=for-the-badge&labelColor=0d1117)
 
 <br/><br/>
 
