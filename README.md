@@ -31,3 +31,31 @@
 ║    problemas em soluções e ideias em software.               ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+
+02 // FORMAÇÃO
+<div align="center">
+🎓 FIAP
+Análise e Desenvolvimento de Sistemas
+
+2º semestre
+
+Tecnologia Desenvolvimento de Software Sistemas
+
+</div>
+┌──────────────────────────────────────────────────────────────┐
+│                    PROTOCOLO DE FORMAÇÃO                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🎓 INSTITUIÇÃO                                             │
+│      FIAP                                                    │
+│                                                              │
+│  📚 CURSO                                                    │
+│     Análise e Desenvolvimento de Sistemas                    │
+│                                                              │
+│  📡 STATUS                                                   │
+│     Em andamento                                             │
+│                                                              │
+│  🎯 DIREÇÃO                                                  │
+│     Desenvolvimento de Software                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
