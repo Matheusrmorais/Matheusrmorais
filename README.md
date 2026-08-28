@@ -104,28 +104,68 @@ diretivas:
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
+<div align="center">
+
+<h3>💰 AuroraBlue-Finance</h3>
+
+Aplicação de controle e organização financeira, construída com foco em interface limpa e experiência do usuário.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br/><br/>
 
 <a href="https://github.com/matheusrmorais/AuroraBlue-Finance">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmorais&repo=AuroraBlue-Finance&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
+<img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00fff2?style=for-the-badge&labelColor=0d1117" />
 </a>
 
+</div>
 </td>
-<td width="50%">
+<td width="33%" valign="top">
+<div align="center">
+
+<h3>🔴 Pokedex</h3>
+
+Pokédex web interativa que consome dados de Pokémon e exibe informações como tipo, habilidades e estatísticas.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br/><br/>
 
 <a href="https://github.com/matheusrmorais/Pokedex">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmorais&repo=Pokedex&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
+<img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00fff2?style=for-the-badge&labelColor=0d1117" />
 </a>
 
+</div>
 </td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+<td width="33%" valign="top">
+<div align="center">
+
+<h3>🎮 Discord Clone</h3>
+
+Desafio da DIO recriando a página inicial do Discord, com foco em fidelidade visual e responsividade.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br/><br/>
 
 <a href="https://github.com/matheusrmorais/Desafio-dio-me-clonando-pagina-discord">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusrmorais&repo=Desafio-dio-me-clonando-pagina-discord&theme=dark&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&icon_color=9d4edd" />
+<img src="https://img.shields.io/badge/VER_REPOSIT%C3%93RIO-00fff2?style=for-the-badge&labelColor=0d1117" />
 </a>
 
+</div>
 </td>
 </tr>
 </table>
