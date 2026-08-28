@@ -198,15 +198,15 @@ operador@nucleo:~$ status --check
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusrmorais&show_icons=true&theme=dark&bg_color=0d1117&title_color=00fff2&icon_color=9d4edd&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&locale=pt-br"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmorais&layout=compact&theme=dark&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&border_color=30363d&hide_border=false&locale=pt-br"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusrmorais&layout=compact&theme=dark&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&border_color=30363d&hide_border=false&locale=pt-br"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=matheusrmorais&theme=dark&background=0D1117&border=30363D&stroke=00fff2&ring=9d4edd&fire=ff2e97&currStreakLabel=00fff2&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&locale=pt-br" />
+<img src="https://streak-stats.demolab.com/?user=Matheusrmorais&theme=dark&background=0D1117&border=30363D&stroke=00fff2&ring=9d4edd&fire=ff2e97&currStreakLabel=00fff2&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&locale=pt-br" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusrmorais&theme=react-dark&bg_color=0d1117&color=00fff2&line=9d4edd&point=ff2e97&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Matheusrmorais&theme=react-dark&bg_color=0d1117&color=00fff2&line=9d4edd&point=ff2e97&area=true&hide_border=true" />
 
 </div>
 
