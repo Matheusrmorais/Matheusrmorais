@@ -210,7 +210,6 @@ operador@nucleo:~$ status --check
 
 </div>
 
-> ✅ **Cards de stats hospedados na sua própria instância** (`github-readme-stats-two-nu-55.vercel.app`), então não sofrem mais com o limite de uso do serviço público compartilhado.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
