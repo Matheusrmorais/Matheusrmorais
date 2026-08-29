@@ -92,7 +92,7 @@ diretivas:
 ## `[ 03 ]` 🛠️ FERRAMENTAS.dll
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
