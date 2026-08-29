@@ -218,10 +218,10 @@ operador@nucleo:~$ status --check
 ## `[ 07 ]` 🏆 CONQUISTAS.trophy
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=matheusrmorais&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
+<img src="https://github-profile-trophy-six-phi.vercel.app/?username=matheusrmorais&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
 </div>
 
-> ⚠️ Mesmo caso do problema acima: o `github-profile-trophy.vercel.app` é um serviço público gratuito e cai com frequência por excesso de uso. Se não carregar, aguarde alguns minutos e recarregue a página do GitHub — o serviço volta sozinho na maioria das vezes.
+> ✅ **Card de conquistas hospedado na sua própria instância** (`github-profile-trophy-six-phi.vercel.app`), então não sofre mais com o limite de uso do serviço público compartilhado.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
