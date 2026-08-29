@@ -214,19 +214,8 @@ operador@nucleo:~$ status --check
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<!-- ============================== TROPHIES ============================== -->
-## `[ 07 ]` 🏆 CONQUISTAS.trophy
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=matheusrmorais&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" />
-</div>
-
-> ⚠️ Essa seção usa o serviço público `github-profile-trophy.vercel.app`, mantido pelo criador original do projeto. Ele pode falhar ocasionalmente por excesso de uso — se não carregar, aguarde alguns minutos e recarregue a página do GitHub. (Tentamos hospedar uma instância própria, mas o projeto tem um bug conhecido no deploy em forks recentes no Vercel, então o serviço público acaba sendo a opção mais estável no momento.)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
 <!-- ============================== SNAKE ANIMATION ============================== -->
-## `[ 08 ]` 🐍 MATRIZ_DE_CONTRIBUIÇÕES.snk
+## `[ 07 ]` 🐍 MATRIZ_DE_CONTRIBUIÇÕES.snk
 
 <div align="center">
 
@@ -234,18 +223,11 @@ operador@nucleo:~$ status --check
 
 </div>
 
-> ⚙️ **Esta imagem SÓ funciona depois de você configurar a GitHub Action.** Ela não é um serviço externo como as anteriores — é um SVG gerado dentro do seu próprio repositório, então enquanto a Action não rodar pelo menos uma vez, o link fica quebrado (é o esperado). Siga os passos:
->
-> 1. Crie um repositório **com o nome exatamente igual ao seu usuário**: `matheusrmorais/matheusrmorais` (esse é o repositório especial que vira a "capa" do seu perfil).
-> 2. Dentro dele, crie o caminho `.github/workflows/snake.yml` com o conteúdo do exemplo oficial: [github.com/Platane/snk#-installation](https://github.com/Platane/snk#-installation)
-> 3. Faça commit — a Action roda automaticamente (ou dispare manualmente em **Actions** → **Generate Snake** → **Run workflow**).
-> 4. Ela vai gerar o arquivo `dist/github-contribution-grid-snake-dark.svg` numa branch chamada `output`, que é exatamente o caminho usado na imagem acima.
-> 5. Cole este mesmo README.md como conteúdo desse repositório `matheusrmorais/matheusrmorais` — é ele que aparece no topo do seu perfil.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ============================== REDES SOCIAIS ============================== -->
-## `[ 09 ]` 📡 CANAIS_DE_COMUNICAÇÃO.net
+## `[ 08 ]` 📡 CANAIS_DE_COMUNICAÇÃO.net
 
 <div align="center">
 
@@ -273,6 +255,6 @@ operador@nucleo:~$ status --check
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-<sub>🖤 Desenvolvido com precisão de máquina e alma de programador — <b>sistema pronto para o próximo deploy.</b></sub>
+<sub>🖤 <b>sistema pronto para o próximo deploy.</b></sub>
 
 </div>
